@@ -88,7 +88,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           }
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ANGRO"
+    }
+  },
+  "defaultProject": "ANGRO",
+  "cli": {
+    "analytics": "bb65a65f-14f6-4d6d-865f-2cefacd6e1d5"
+  }
 }
